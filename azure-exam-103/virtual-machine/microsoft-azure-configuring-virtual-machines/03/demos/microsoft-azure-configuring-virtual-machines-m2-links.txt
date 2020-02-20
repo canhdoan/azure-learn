@@ -1,0 +1,22 @@
+Module 2: Managing VM Availability
+
+Microsoft Azure
+https://azure.microsoft.com/en-us/
+
+Azure Documentation
+https://docs.microsoft.com/en-us/azure/
+
+Azure Architecture Center
+https://docs.microsoft.com/en-us/azure/architecture/
+
+Azure Subscription and Service Limits
+https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
+
+Manage the availability of Windows VMs in Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability
+
+Azure Site Recovery Documentation - Tutorials, API Reference | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/site-recovery/
+
+Azure Advisor Documentation - Tutorials | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/advisor/

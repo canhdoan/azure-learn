@@ -1,0 +1,38 @@
+Module 1: Managing VM Configuration
+
+Microsoft Azure
+https://azure.microsoft.com/en-us/
+
+Azure Documentation
+https://docs.microsoft.com/en-us/azure/
+
+Azure Architecture Center
+https://docs.microsoft.com/en-us/azure/architecture/
+
+Azure Subscription and Service Limits
+https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits
+
+Starting and Stopping Azure VMs
+https://azure.microsoft.com/en-us/resources/videos/start-stop-restart-and-delete-vms-in-microsoft-azure-with-powershell/
+
+Azure VM Extensions
+https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/overview
+
+About disks storage for Azure Windows VMs
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/about-disks-and-vhds
+
+High-performance Premium Storage and managed disks for VMs
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/premium-storage
+
+What is Azure Virtual Network?
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+IP address types and allocation methods in Azure
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-ip-addresses-overview-arm
+
+Microsoft Azure Datacenter IP Ranges
+https://www.microsoft.com/en-us/download/details.aspx?id=41653
+
+Monitoring Azure applications and resources | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview
